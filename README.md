@@ -1,7 +1,8 @@
 # ver 0.0.0
+데이터셋 : https://drive.google.com/file/d/1Qxd4FX0u515ea5DklIgsQeio03fNfuio/view?usp=sharing
 
 사용법 :
-
+---
 사전설정 :
 -
 cd BoxDamageDetect
