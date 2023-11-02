@@ -6,7 +6,9 @@
 사전설정 :
 -
 cd BoxDamageDetect
+
 pip install -r requirements.txt
+
 pip install roboflow
 
 
