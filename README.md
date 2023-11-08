@@ -19,4 +19,4 @@ python3 train.py --img 416 --batch 4 --epochs 150 --data 'dataset/data.yaml' --w
 
 탐지 :
 -
-python3 detect.py --weights runs/train/exp?/weights/best.pt --img 416 --conf 0.1 --source 0
+python3 detect.py --weights weight***.pt --img 256(default) --conf 0.01(default) --source test/
